@@ -16,7 +16,7 @@
 **Models**    - models/ productModel.js 
 **Routes**    - routes/ index.js 
 
-Running server type the  `nodemon index`
+Running server type the  `nodemon server`
 
 just incase nodemon is not found 
 you can install the package globally `npm install -g nodemon`
